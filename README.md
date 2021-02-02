@@ -1,34 +1,23 @@
-![Eddie Jaoude](https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg)
+![Sumit Dey](https://raw.githubusercontent.com/Dey-Sumit/Dey-Sumit/main/Sumit%20Dey.png)
 
-<p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
+<p align="center">I am Sumit, currently pursuing my B.Tech degree in Computer Science Engineering as a final year student. I am a full-stack web developer and a Youtuber. I make videos on web development and web designing, so if it sounds interesting check out my
+  <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A">
+    youtube channel</a>  </p>
 
 <p align="center"><b>Part of the <a href = "https://stars.github.com/profiles"> GitHub Stars program and Star of 2020</a></b></p>
 
-<p align="center">In recent years, I have trended on GitHub with the likes of Twitter, Facebook, Angular, etc. and was in the Top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realize how much I still need to learn.</p>
 
 <p align="center">
-  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
+  <a href="https://github.com/Dey-Sumit?tab=followers">
     <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
-  </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
+
+  <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A">
+    <img src="https://img.shields.io/youtube/views/Ew4wlgcUEYk?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://user-images.githubusercontent.com/624760/87853406-a34b6900-c901-11ea-834b-07d90ca3d4fa.gif" alt="Eddie teaching code on YouTube" />
-  <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
-</p>
+
 
 
 ---
